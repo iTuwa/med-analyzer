@@ -1,9 +1,8 @@
 fastapi
 uvicorn
-python-multipart
-pillow
-opencv-python-headless
-aiofiles
-pytest
+torch
+torchvision
+Pillow
 requests
-# add torch and torchvision later when ready
+pydantic
+numpy
